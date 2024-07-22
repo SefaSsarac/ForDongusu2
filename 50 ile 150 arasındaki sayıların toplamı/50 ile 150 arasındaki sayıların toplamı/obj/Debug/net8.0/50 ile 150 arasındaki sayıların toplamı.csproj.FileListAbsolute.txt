@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\bin\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.exe
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\bin\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.deps.json
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\bin\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.runtimeconfig.json
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\bin\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.dll
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\bin\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.pdb
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.AssemblyInfo.cs
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.dll
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\refint\50 ile 150 arasındaki sayıların toplamı.dll
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.pdb
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\50 ile 150 arasındaki sayıların toplamı.genruntimeconfig.cache
+D:\Yazılım\Repository\50 ile 150 arasındaki sayıların toplamı\50 ile 150 arasındaki sayıların toplamı\obj\Debug\net8.0\ref\50 ile 150 arasındaki sayıların toplamı.dll
